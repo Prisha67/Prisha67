@@ -2,7 +2,7 @@
 <h3 align="center">Building • Learning • Exploring Tech 🚀</h3>
 
 <p align="center">
-  <i>AI/ML • Cybersecurity • Embedded Systems</i>
+  <i>AI/ML • Cybersecurity • Embedded Systems • Web programming</i>
 </p>
 
 ## 🌸 About Me
