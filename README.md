@@ -9,6 +9,6 @@
 ```yaml
 name: Prisha
 role: Developer & Learner
-focus: ["AI/ML", "Cybersecurity", "Embedded Systems"]
+focus: ["AI/ML", "Cybersecurity", "Embedded Systems", "Web programming"]
 loves: ["Building Projects", "Problem Solving", "Learning New Tech"]
 goal: "To create impactful tech solutions and grow every day"
