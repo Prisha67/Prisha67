@@ -30,21 +30,29 @@ Investigating how model quantization affects predictive performance, answer stab
 
 ## Selected Projects
 
-**DevPulse – Agentic AI Framework**
+**[Intel Image Classification – CNN vs VGG16 vs MobileNetV2](https://github.com/Prisha67/Intel_Image_Classification_CNN_vs_VGG16_vs_MobileNetV2)**
 
-Multi-agent framework exploring LLM-powered repository analysis, issue triaging, and release-note generation using LangGraph and MCP.
+Comparative deep-learning project evaluating a custom Convolutional Neural Network (CNN), VGG16, and MobileNetV2 architectures for image classification.
 
-**AI-Powered Customer Support Automation**
+**[Multidimensional Evaluation of Quantized Open-Weight LLMs](https://github.com/Prisha67)**
 
-An AI-based customer support automation project exploring intelligent query handling and automated response generation.
+Research project investigating the effects of FP16, INT8, and NF4 quantization on medical question-answering performance, answer stability, confidence reliability, and computational efficiency.
 
-**TinyML-Based Autonomous Robot** *(In Development)*
+**[DevPulse – Agentic AI Framework](https://github.com/Prisha67)**
 
-Exploring embedded machine learning, quantized neural networks, and on-device inference using ESP32 hardware.
+Multi-agent framework exploring LLM-powered repository analysis, issue triaging, and release-note generation.
+
+**[AI-Powered Customer Support Automation](https://github.com/Prisha67/AI-Powered-Customer-Support-Automation-System)**
+
+AI-based customer support automation exploring intelligent query handling and automated response generation.
 
 **CareerOS – AI Job Application Agent** *(In Development)*
 
 An agentic AI platform exploring career intelligence and automated job application workflows.
+
+**TinyML-Based Autonomous Robot** *(In Development)*
+
+Exploring embedded machine learning, on-device inference, and autonomous robotic systems using ESP32 hardware.
 
 ## Technical Interests & Tools
 
