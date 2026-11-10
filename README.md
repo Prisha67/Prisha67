@@ -30,19 +30,19 @@ Investigating how model quantization affects predictive performance, answer stab
 
 ## Selected Projects
 
-**[Intel Image Classification – CNN vs VGG16 vs MobileNetV2]**
+**Intel Image Classification – CNN vs VGG16 vs MobileNetV2**
 
 Comparative deep-learning project evaluating a custom Convolutional Neural Network (CNN), VGG16, and MobileNetV2 architectures for image classification.
 
-**[Multidimensional Evaluation of Quantized Open-Weight LLMs]**
+**Multidimensional Evaluation of Quantized Open-Weight LLMs**
 
 Research project investigating the effects of FP16, INT8, and NF4 quantization on medical question-answering performance, answer stability, confidence reliability, and computational efficiency.
 
-**[DevPulse – Agentic AI Framework]**
+**DevPulse – Agentic AI Framework**
 
 Multi-agent framework exploring LLM-powered repository analysis, issue triaging, and release-note generation.
 
-**[AI-Powered Customer Support Automation]**
+**AI-Powered Customer Support Automation**
 
 AI-based customer support automation exploring intelligent query handling and automated response generation.
 
